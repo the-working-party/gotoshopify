@@ -99,6 +99,7 @@ a {
 	-ms-transition: background-color .4s linear, color .4s linear;
 	transition: background-color .4s linear, color .4s linear;
 	color: #1abc9c;
+	cursor: pointer;
 }
 a:hover,
 a:focus {
@@ -228,6 +229,15 @@ input {
 	font-size: 40px;
 	line-height: 55px;
 	letter-spacing: 2px;
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+
+#h h2 {
+	color: white;
+	font-size: 30px;
+	line-height: 45px;
+	letter-spacing: 2px;
 	margin-bottom: 40px;
 	font-weight: 300;
 }
@@ -240,9 +250,15 @@ input {
 	color: white;
 }
 
-#g p {
+#g p, #g a {
 	color: white;
 	font-size: 16px;
+}
+#g a {
+	text-decoration: underline;
+}
+#g a:hover {
+	text-decoration: none;
 }
 
 #g i {
