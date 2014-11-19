@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/the-working-party/gotoshopify.png?label=ready&title=Ready)](https://waffle.io/the-working-party/gotoshopify)
 gotoshopify
 ===========
 
